@@ -7,3 +7,9 @@ A wrapper around Sarrisa for XSLT support in the browser.
 * jQuery plugin
 * Client side caching
 * Client side filtering
+
+# jQuery plugin usage
+
+    $('.element').xslt({});
+    $('.element').xslt({});
+
