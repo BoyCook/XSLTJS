@@ -1,0 +1,32 @@
+{
+    "name": "xslt",
+    "version": "0.0.1-SNAPSHOT",
+    "author": "BoyCook",
+    "description": "XSLT lib",
+    "contributors": [
+        {
+            "name": "Craig Cook",
+            "id": "BoyCook"
+        }
+    ],
+    "scripts": {
+        "test": "make test",
+        "predeploy": "echo This will be run before deploying the app",
+        "postdeploy": "echo This will be run after deploying the app"
+    },
+    "main": "./xslt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BoyCook/XSLTJS.git"
+    },
+    "keywords": [
+        "XSLT"
+    ],
+    "devDependencies": {
+        "should": "latest"
+    },
+    "engines": {
+        "node": ">=0.6"
+    }
+}
+

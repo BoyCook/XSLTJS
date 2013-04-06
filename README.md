@@ -13,3 +13,6 @@ A wrapper around Sarrisa for XSLT support in the browser.
     $('.element').xslt({});
     $('.element').xslt({});
 
+# Core library usage
+
+    var xslt = new XSLT();
